@@ -25,7 +25,19 @@
             </div>
 
         </section>
-            
+                    <div class="max-w-3xl mx-auto px-4">
+            <hr class="border-skin-line" aria-hidden="true">
+        </div>
+        
+
+        <div class="max-w-3xl mx-auto px-4">
+            <hr class="border-skin-line" aria-hidden="true">
+        </div>
+
+        
+        <div class="max-w-3xl mx-auto px-4">
+            <hr class="border-skin-line" aria-hidden="true">
+        </div>
        
     </main>
 
